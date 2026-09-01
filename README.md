@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Tonny 👋
 
-<!--
-**matolah125-alt/matolah125-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Software Engineer in Training
 
-Here are some ideas to get you started:
+I'm currently building my foundation in software engineering, artificial intelligence, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to become an AI Software Engineer who can design, build, and deploy reliable AI-powered software.
+
+### 🚀 Currently Learning
+
+- Python
+- Software Engineering
+- Artificial Intelligence
+- Machine Learning
+- Backend Development
+- SQL
+- Git & GitHub
+- Algorithms & Data Structures
+
+### 📚 Certifications
+
+- CS50x — Introduction to Computer Science
+- CS50's Introduction to Programming with Python
+- CS50's Introduction to SQL
+- CS50's Introduction to Artificial Intelligence with Python
+
+### 🛠️ Current Journey
+
+I'm documenting my transition into AI Software Engineering through hands-on learning and practical projects.
+
+- Building Python projects
+- Strengthening software engineering fundamentals
+- Learning AI and machine learning
+- Building toward production-ready AI applications
+- Growing my GitHub portfolio one project at a time
+
+### 📌 Featured Project
+
+[AI-ENGINEERING](https://github.com/matolah125-alt/AI-ENGINEERING)
+
+My ongoing AI Software Engineering learning journey, where I document projects and apply what I learn.
+
+### 🎯 Long-Term Goal
+
+Become a strong AI Software Engineer capable of building useful, reliable, and production-ready AI systems.
+
+---
+
+**Currently learning. Building next. 🚀**
